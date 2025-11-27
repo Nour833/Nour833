@@ -46,13 +46,14 @@
 
 ---
 
-### 📂 Featured Projects (11 Repos)
+### 📂 Featured Projects (12 Repos)
 
 I focus on **Full Stack Web Development**, **Automotive Security**, and **Network Privacy**.
 
 | 🏷️ Project | 💻 Lang | 📝 Description |
 | :--- | :---: | :--- |
 | **[PerfektBlue](https://github.com/Nour833/PerfektBlue)** | Python | 🚗 **Auto Security:** Bluetooth & CAN exploitation framework |
+| **[Fcoin](https://github.com/Nour833/fcoin)** | Python | 🪙 **Hardware:** Universal MIFARE Forensics & Manager |
 | **[Django-REST-API](https://github.com/Nour833/Django-REST-API)** | Python | 🔌 **Full Stack:** RESTful API with Auth & CRUD |
 | **[CTS_STRASBOURG_READER](https://github.com/Nour833/CTS_STRASBOURG_READER)** | C | 🎫 **Hardware:** NFC reader/decrypter for CTS tickets |
 | **[Autononymous](https://github.com/Nour833/Autononymous)** | Python | 🕵️ **Privacy:** Automatic network anonymity over WAN |
