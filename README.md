@@ -48,7 +48,7 @@
 
 ### 📂 Featured Projects (8 Repos)
 
-I focus on **Full Stack Web Development**, **Automotive Security**, and **Network Privacy**.
+I focus on **Full Stack Web Development**, **Automotive Security**, **Cryptography**, and **Network Privacy**.
 
 | 🏷️ Project | 💻 Lang | 📝 Description |
 | :--- | :---: | :--- |
